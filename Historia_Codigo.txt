@@ -1,0 +1,300 @@
+  1494	cd ..
+  1495	git push 
+  1496	cd
+  1497	ls -la .history
+  1498	cat .history
+  1499	cat .history postgres
+  1500	cat -b .history
+  1501	cat -n .history
+  1502	cat -n .history |cut -d " " -f 2
+  1503	cat -n .history
+  1504	cat -n .history |cut -f 2
+  1505	cat -n .history |cut -f 2 | head
+  1506	cat -n .history
+  1507	cat -n .history | tail -n 184
+  1508	cat -n .history | tail -n 186 > Historia_Codigo.txt
+  1509	cd ./Repos/Master-Data-Science
+  1510	cp ~/Historia_Codigo.txt Historia_Codigo.txt
+  1511	ls -la
+  1512	git add Historia_Codigo.txt
+  1513	git commit -m "historia codigo terminal" Historia_Codigo.txt
+  1514	git push 
+  1515	cd 
+  1516	ls -l
+  1517	rm -rf 20lines2.txt
+  1518	rm -rf 20lines3.txt
+  1519	rm -rf 20lines.txt
+  1520	rm -rf ArchivoPrueba
+  1521	rm -rf hello
+  1522	rm -rf hello.txt
+  1523	rm -rf historia_Codigo.txt
+  1524	rm -rf ola
+  1525	rm -rf one
+  1526	rm -rf size_of_file.txt
+  1527	rm -rf text.csv
+  1528	rm -rf uniq_example.txt
+  1529	ls -l
+  1530	mkdir Michael_Data_Science
+  1531	ls -la
+  1532	ls -l
+  1533	cd ./Michael_Data_Science
+  1534	jupyter notebook
+  1535	cd ./Data
+  1536	ls -la
+  1537	pwc
+  1538	git init
+  1539	ls -la
+  1540	rm -rf .git
+  1541	ls -la
+  1542	cd
+  1543	cd ./Repos
+  1544	ls -la
+  1545	cd ..
+  1546	ls -la
+  1547	ls -l
+  1548	git --version
+  1549	apt-get install git
+  1550	conda install git 
+  1551	git --version
+  1552	cd ./Repos
+  1553	ls -la
+  1554	rm -rf .git
+  1555	ls -la
+  1556	cd ./Master-Data-Science
+  1557	ls -la
+  1558	cd ..
+  1559	ls -la
+  1560	rm -rf Master-Data-Science1
+  1561	ls -la
+  1562	cd ..
+  1563	cd ./postgres
+  1564	ls -la
+  1565	git config --list
+  1566	git config --global user.name = 'Michael Quintana'
+  1567	git config --global user.email = 'miquintahu@gmail.com'
+  1568	git config --list
+  1569	git log
+  1570	cd
+  1571	cd ./Repos/Master-Data-Science1
+  1572	git log
+  1573	git config --global user.name = 'Michael Quintana'
+  1574	git config --global user.email = 'miquintahu@gmail.com'
+  1575	git log
+  1576	cd ..
+  1577	cd ./Master-Data-Science
+  1578	git log
+  1579	cd ..
+  1580	cd ./Master-Data-Science1
+  1581	git add README.md
+  1582	ls -la
+  1583	gedit
+  1584	gedit Historia_Codigo.txt
+  1585	cd
+  1586	cd ./Repos/Master-Data-Science
+  1587	git config --list
+  1588	cd
+  1589	cd ..
+  1590	cd ./dsc
+  1591	cd ./Repos/Master-Data-Science1
+  1592	jupyter notebook
+  1593	git config --list
+  1594	git config --global user.name = 'Michael Quintana'
+  1595	git config --list
+  1596	git init 
+  1597	rm -rf .git 
+  1598	cd ./Repos/Master-Data-Science1
+  1599	git init 
+  1600	ls -la
+  1601	git config --global user.name = 'Michael Quintana'
+  1602	git config --global user.email = 'miquintahu@gmail.com'
+  1603	git config --list
+  1604	git add README.md
+  1605	ls -la
+  1606	gedit README.md
+  1607	git add README.md
+  1608	gedit Historia_Codigo.txt
+  1609	git add Historia_Codigo.txt
+  1610	cd ./POSTGRESS_SQL
+  1611	gedit my_fb_friends.csv
+  1612	gedit my_ldin_contacts.csv
+  1613	cd ..
+  1614	git add POSTGRESS_SQL/
+  1615	git push
+  1616	git commit -m "agregando README" README.md
+  1617	git commit -m "agregando carpeta" POSTGRESS_SQL/
+  1618	git config --unset user.name
+  1619	git config --unset user.name = ''
+  1620	git config --unset user.name = 'Michael Quintana'
+  1621	git config --list
+  1622	cd ..
+  1623	rm -rf Master-Data-Science1
+  1624	ls -la
+  1625	cd ./Master-Data-Science
+  1626	git config --list
+  1627	ls -la
+  1628	cd ..
+  1629	ls -la
+  1630	cd ./csvkit
+  1631	git config --list
+  1632	ls -la
+  1633	git config --replace-all user.name = 'Michael Quintana'
+  1634	git config --list
+  1635	git config --global user.name = 'Michael Quintana'
+  1636	git config --list
+  1637	git config user.email = 'miquintahu@gmail.com'
+  1638	git config --list
+  1639	git config user.email 'miquintahu@gmail.com'
+  1640	git config --list
+  1641	git config -e
+  1642	git config --global --unset-all user.name
+  1643	git config --global --unset-all user.email
+  1644	git config --list
+  1645	git config --global --unset-all remote.
+  1646	git config --global --unset-all remote.origin
+  1647	git config --global --unset-all remote.origin.url
+  1648	git congig --list
+  1649	git config --list
+  1650	git config --global user.name "Michael Quintana"
+  1651	git config --list
+  1652	git config --global unset-all
+  1653	git config --global --unset-all
+  1654	git config --global --unset
+  1655	git config --global --unset-all user.name
+  1656	git config --global --unset-all user.email
+  1657	git config --unset-all user.email
+  1658	git config --unset-all user.name
+  1659	git config --list
+  1660	cd ..
+  1661	cd ./Master-Data-Science1
+  1662	git push 
+  1663	ls -la
+  1664	git log
+  1665	git status
+  1666	ls -la
+  1667	git log
+  1668	git push -u origin master
+  1669	ls -la
+  1670	git push origin master
+  1671	ls -la
+  1672	cd ./POSTGRESS_SQL
+  1673	ls -la
+  1674	rm -rf README.md
+  1675	git commit -m "borrar README"
+  1676	git commit -m "borrar README" README.md
+  1677	git push origin master
+  1678	cd ..
+  1679	rm -rf ./Master-Data-Science1
+  1680	ls -la
+  1681	git push origin master
+  1682	cd ./Master-Data-Science1
+  1683	git push origin master
+  1684	ls -la
+  1685	cd ./POSTGRESS_SQL
+  1686	ls -la
+  1687	cd ..
+  1688	git push -u origin master
+  1689	cd ..
+  1690	git push -u origin master
+  1691	cd ./Master-Data-Science1
+  1692	git push -u origin master
+  1693	git pull origin
+  1694	git push
+  1695	git push origin
+  1696	git push origin master
+  1697	ls -la
+  1698	gedit README.md
+  1699	git commit -m "agregando README" README.md
+  1700	git push origin master
+  1701	ls -la
+  1702	cd ./POSTGRESS_SQL
+  1703	ls -la
+  1704	cd ..
+  1705	ls -la
+  1706	git push origin master
+  1707	git pull origin master
+  1708	git pull master origin
+  1709	git pull origin
+  1710	git pull origin HEAD
+  1711	git pull origin master
+  1712	git pull origin
+  1713	git pull [200~https://github.com/MQH15/Master-Data-Science1
+  1714	git pull https://github.com/MQH15/Master-Data-Science1
+  1715	cd ..
+  1716	git pull https://github.com/MQH15/Master-Data-Science1
+  1717	git pull https://github.com/MQH15/Master-Data-Science1.git
+  1718	ls -la
+  1719	cd ./Master-Data-Science1
+  1720	git push origin master
+  1721	git puch
+  1722	git push
+  1723	git push --set-upstream origin master
+  1724	cd ..
+  1725	rm -rf ./Master-Data-Science1
+  1726	mkdir Master-Data-Science1
+  1727	git init Master-Data-Science1
+  1728	git pull https://github.com/MQH15/Master-Data-Science1
+  1729	git pull https://github.com/MQH15/Master-Data-Science1/.git
+  1730	git pull https://github.com/MQH15/Master-Data-Science1.git
+  1731	cd ./Master-Data-Science1
+  1732	ls -la
+  1733	git pull https://github.com/MQH15/Master-Data-Science1
+  1734	ls -la
+  1735	cd ./POSTGRESS_SQL
+  1736	ls -la
+  1737	cd ..
+  1738	git push origin master
+  1739	git log
+  1740	git push -u origin master
+  1741	git config --list
+  1742	ls -la
+  1743	cd ..
+  1744	rm -rf ./Master-Data-Science1
+  1745	cd ./Master-Data-Science1
+  1746	ls -la
+  1747	touch README.md
+  1748	mkdir POSTGRESS_SQL
+  1749	ls -la
+  1750	cd ./POSTGRESS_SQL
+  1751	cp /home/dsc/postgres/my_fb_friends.csv my_fb_friends.csv
+  1752	cp /home/dsc/postgres/my_ldin_contacts.csv my_ldin_contacts.csv
+  1753	ls -la
+  1754	cd ..
+  1755	cat -n ~/.history | tail -n 300 > Historia_Codigo.txt
+  1756	gedit README.md
+  1757	git add README.md
+  1758	git add POSTGRESS_SQL
+  1759	git add Historia_Codigo.txt
+  1760	git commit -m "agregando README" README.md
+  1761	git commit -m "agregando carpeta" POSTGRESS_SQL
+  1762	git commit -m "agregando historia" Historia_Codigo.txt
+  1763	git remote add origin https://github.com/MQH15/Master-Data-Science1.git
+  1764	git push -u origin master
+  1765	git push
+  1766	git push origin master
+  1767	git push -f origin master
+  1768	ls -la
+  1769	cp ~/Creando_Repositorio_GITHUB_from_TERMINAL.ipynb ConectandoGIT_CONSOLA.ipynb
+  1770	git push -f origin master
+  1771	ls -la
+  1772	rename ConectandoGIT_CONSOLA.ipynb Conectando_GIT_CONSOLA.ipynb
+  1773	mv ConectandoGIT_CONSOLA.ipynb Conectando_GIT_CONSOLA.ipynb
+  1774	ls -la
+  1775	gedit README.md
+  1776	git add README.md
+  1777	git commit -m "agregando README" README.md
+  1778	git push -u origin master
+  1779	git add Conectando_GIT_CONSOLA.ipynb
+  1780	git commit -m "agregando conexion_GIT_CONSOLA" Conectando_GIT_CONSOLA.ipynb
+  1781	git push -u origin master
+  1782	rm -rf Conectando_GIT_CONSOLA.ipynb
+  1783	cp ~/Creando_Repositorio_GITHUB_from_TERMINAL.ipynb Conectando_GIT_CONSOLA.ipynb
+  1784	git add Conectando_GIT_CONSOLA.ipynb
+  1785	git commit -m "agregando conexion GIT_CONSOLA" Conectando_GIT_CONSOLA.ipynb
+  1786	git push -u origin master
+  1787	cd
+  1788	jupyter notebook
+  1789	cd ./Repos/Master-Data-Science1
+  1790	cd ..
+  1791	rm -rf Master-Data-Science1
+  1792	cd ./Repos
+  1793	rm -rf Conexion-GIT_CONSOLA
